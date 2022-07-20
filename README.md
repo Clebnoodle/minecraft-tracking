@@ -4,7 +4,7 @@ This program utilizes a MySQL database to link Discord accounts to Minecraft acc
 
 I made this program as a starting point to more easily track information about a player within a specific server.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/a4YE_BivlDI)
 
 # Relational Database
 
